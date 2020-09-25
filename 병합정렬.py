@@ -1,3 +1,5 @@
+# 참고한 링크: https://ratsgo.github.io/data%20structure&algorithm/2017/10/03/mergesort/ 
+
 n = int(input())
 
 list = []
